@@ -1,5 +1,5 @@
 
-# Custom Proxy Server
+# Simple HTTP Server
 
 This repository contains a custom-built proxy server designed to filter HTTP requests based on IP addresses and hostnames. The server supports a configurable thread pool to efficiently manage incoming connections and provides robust error handling for non-compliant HTTP requests.
 
