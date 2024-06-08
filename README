@@ -1,7 +1,0 @@
-209351253
-Halel Fruman
-Ex2
-threadpool.c, proxyserver.c
-
-This project involves implementing an HTTP proxy server in C, including thread pooling for handling multiple client connections concurrently. The server filters requests based on predefined rules, connects to origin servers to fulfill valid requests, and handles errors gracefully.
-
