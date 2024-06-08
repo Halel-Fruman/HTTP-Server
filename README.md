@@ -65,6 +65,4 @@ www.example.com
 
 Contributions to this project are welcome! Please feel free to fork the repository, make changes, and submit a pull request.
 
-## License
 
-This project is open-sourced under the MIT License. See the `LICENSE` file for more details.
